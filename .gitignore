@@ -1,0 +1,8 @@
+# build intermediates
+build/
+
+# build output
+bin/
+
+# trace logs written by CLI_ELEVATOR_TRACE_FILE
+*.log
